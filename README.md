@@ -1,4 +1,4 @@
-# Yelp_Restaurant_Business_Analysis
+# Yelp-Restaurant-Business-Analysis
 
 Using restaurant business reviews on Yelp, we build a system for both users and restaurants where restaurants can gain insights about their customers and services and customers can gain the benefit of recommended businesses using Unsupervised Learning techniques.
 
