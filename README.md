@@ -8,5 +8,5 @@ We used various Topic modeling techniques such as LDA, LSA, and Non-Negative Mat
 
 We used Collaborative and Text-based Recommender systems to help users identify more likable restaurant places based on similar user ratings and required attributes provided by the users. 
 
-
+Do look at the Restaurant_Business_Analysis_and_Optimization ppt for results on each topic and the Restaurant_Business_Analysis_and_Optimization_Report file for a written report explaining all findings.
 
