@@ -10,3 +10,5 @@ We used Collaborative and Text-based Recommender systems to help users identify 
 
 Do look at the Restaurant_Business_Analysis_and_Optimization ppt for results on each topic and the Restaurant_Business_Analysis_and_Optimization_Report file for a written report explaining all findings.
 
+![Clustering](https://github.com/sanjsvk/Yelp-Restaurant-Business-Analysis/blob/master/Clustering.jpg)
+![Recommender-System](https://github.com/sanjsvk/Yelp-Restaurant-Business-Analysis/blob/master/Recommender-System.jpg)
